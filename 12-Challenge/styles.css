@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.div1 {
+    display: flex;
+    align-items: end;
+    position: relative;
+    height: 600px;
+    width: 250px;
+    background-color: gray;
+}
+
+.div2 {
+    display: flex;
+    align-items: end;
+    position: relative;
+    left: 125px;
+    height: 300px;
+    width: 250px;
+    background-color: black;
+}
+
+.div3 {
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: lightgray;
+    top: 100px;
+    right: 75px;
+}
