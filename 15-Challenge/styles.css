@@ -1,0 +1,40 @@
+body {
+    height: 150vh;
+    margin: 0;
+}
+
+div {
+    color: white;
+    position: absolute;
+}
+
+.div1 {
+    width: 300px;
+    height: 300px;
+    background-color: gray;
+    float: left;
+}
+
+.div2 {
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    position: absolute;
+    left: 475px;
+}
+
+.div3 {
+    height: 150px;
+    width: 150px;
+    background-color: black;
+    float: left;
+    top: 375px;
+}
+
+.div4 {
+    width: 300px;
+    height: 300px;
+    background-color: gray;
+    top: 225px;
+    left: 325px;
+}
