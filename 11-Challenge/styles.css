@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.div1 {
+    display: flex;
+    align-items: end;
+    height: 600px;
+    width: 350px;
+    background-color: gray;
+}
+
+.div2 {
+    display: flex;
+    margin-left: auto;
+    padding: 0px 10px 10px 0px;
+    height: 300px;
+    width: 250px;
+    background-color: black;
+}
+
+.div3 {
+    align-self: flex-end;
+    margin-left: auto;
+    height: 200px;
+    width: 200px;
+    background-color: lightslategray;
+}
