@@ -6,7 +6,6 @@
 div {
     position: absolute;
     color: white;
-    
 }
 
 .div1 {
@@ -20,7 +19,6 @@ div {
     height: 150px;
     width: 150px;
     background-color: black;
-    position: absolute;
     left: 475px;
 }
 
