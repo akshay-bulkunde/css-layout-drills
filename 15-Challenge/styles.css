@@ -1,11 +1,12 @@
-body {
-    height: 100vh;
+* {
     margin: 0;
+    padding: 0;
 }
 
 div {
-    color: white;
     position: absolute;
+    color: white;
+    
 }
 
 .div1 {
